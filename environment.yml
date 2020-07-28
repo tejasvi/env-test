@@ -5,19 +5,19 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - torchvision=0.6.0
-  - cpuonly=1.0
-  - pytorch=1.5.0
-  - xarray=0.15.1
-  - numpy=1.18.1
-  - scipy=1.4.1
-  - scikit-image=0.16.2
-  - matplotlib=3.2.2
-  - regionmask=0.5.0
-  - ipython=7.13.0
-  - plac=0.9.6
-  - pytorch-lightning=0.8.5
-  - pip=20.0.2
+  - torchvision
+  - cpuonly
+  - pytorch
+  - xarray
+  - numpy
+  - scipy
+  - scikit-image
+  - matplotlib
+  - regionmask
+  - ipython
+  - plac
+  - pytorch-lightning
+  - pip
   - pip:
-    - wandb==0.8.36
+    - wandb
 
